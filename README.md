@@ -6,3 +6,4 @@ Information Architecture: Redesigned sitemap made by content restructuring and c
 Paper prototypes: Initial high-level sketches
 Wireframe mockups: Interactive PDF mockups to explain the entire workflow of the site
 Visual Design: GUI or skinned mockup prototypes developed on the initial wireframes
+ 
